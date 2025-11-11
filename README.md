@@ -5,6 +5,7 @@
 <img width="1670" height="744" alt="image" src="https://github.com/user-attachments/assets/ac0feb0d-5eb5-4be0-92f4-c23f316f1539" />
 
 #Regestration_page
-<img width="1805" height="753" alt="image" src="https://github.com/user-attachments/assets/96100f57-72fb-454f-9748-0d47c0bc6cbf" />
+<img width="1477" height="803" alt="image" src="https://github.com/user-attachments/assets/266077b0-dd67-4f35-8054-9c7e535397ab" />
+
 
 
