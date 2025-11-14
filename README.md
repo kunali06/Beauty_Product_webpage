@@ -4,6 +4,8 @@
 #Login_Page
 <img width="1110" height="780" alt="image" src="https://github.com/user-attachments/assets/7951117a-ab09-4a96-a040-aaab419fdb81" />
 
+#Home_page
+<img width="1424" height="638" alt="image" src="https://github.com/user-attachments/assets/cab7b0e7-66ae-4dda-b17f-e5b48d9f3339" />
 
 #Regestration_page
 <img width="1477" height="803" alt="image" src="https://github.com/user-attachments/assets/266077b0-dd67-4f35-8054-9c7e535397ab" />
